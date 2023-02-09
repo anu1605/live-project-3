@@ -132,13 +132,13 @@ img[alt=logo]{
 }
 @media screen and (min-width:1024px) {
   .hero-heading{
-    font-size: 5.5rem;
+    font-size: 4.5rem;
     padding:  1.8rem;
 }
 .hero-body{
-  padding-top: 3rem;
-    font-size: 2.8rem;
-    line-height: 1rem;
+  padding-top: 2rem;
+    font-size: 1rem;
+    line-height: 2rem;
 }
 }
 .mid{
@@ -153,13 +153,13 @@ img[alt="main image"]{
 .bottom-main{
     display: flex;
     justify-content: end;
-    height: 2rem;
+    height: 5rem;
 }
 .button-large-prev{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 2rem;
+    width: 5rem;
     padding: 0 0.2rem;
     background-color: rgba(57,55,45,255);
 }
@@ -167,7 +167,7 @@ img[alt="main image"]{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 2rem;
+    width: 5rem;
     padding: 0 0.2rem;
     background-color: rgba(160,143,54,255);
 }
